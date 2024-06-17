@@ -52,6 +52,9 @@ nav ul li a:hover {
     animation: slideInFromTop 1s ease-out;
 }
 
+img{
+    transform: rotate(90);
+}
 header h1 {
     font-size: 3em;
     margin-bottom: 20px;
